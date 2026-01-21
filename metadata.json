@@ -1,0 +1,9 @@
+
+{
+  "name": "TechStore Pro",
+  "description": "A premium electronics e-commerce application with a modern dark-mode aesthetic, featuring product listings, detailed configuration options, and a secure checkout flow.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
